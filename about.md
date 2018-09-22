@@ -2,7 +2,9 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<img style="text-align: center; border-radius: 100%; max-width: 180px;" src="{{ site.url }}/{{ site.picture }}">
+<h1>Anubhav Dinesh Patel</h1>
+<h5 align="center">Computer Geek | Full Stack Developer | Machine Learning Enthusiast</h5>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
