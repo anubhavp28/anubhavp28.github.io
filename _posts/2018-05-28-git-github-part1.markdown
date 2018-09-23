@@ -28,10 +28,14 @@ In this modern era, it is highly unlikely that you would create such a draft wit
 
 As you can probably guess, this method of “version control” clearly sucks. If you still can’t get why it’s so bad -
 
-There is no easy and elegant way to relate a copy of the draft (snapshot) with the instance of time it was made. There is a limit to what can be written in a filename.
-Everything has to be done manually, which is tedious as well as prone to human error. What if you forgot to save a copy? or you mistakenly edited a snapshot?
-What if the project you are working on has multiple files, you may have to clone all files for all instances?
-High memory consumption, say you have 100 snapshots of your 25 megabyte draft, the whole thing would require approximately a memory space of 100 x 25 MB = 2.5 GB.
+* There is no easy and elegant way to relate a copy of the draft (snapshot) with the instance of time it was made. There is a limit to what can be written in a filename.
+
+* Everything has to be done manually, which is tedious as well as prone to human error. What if you forgot to save a copy? or you mistakenly edited a snapshot?
+
+* What if the project you are working on has multiple files, you may have to clone all files for all instances?
+
+* High memory consumption, say you have 100 snapshots of your 25 megabyte draft, the whole thing would require approximately a memory space of 100 x 25 MB = 2.5 GB.
+
 Now suppose, your novel eventually makes it to the top and now a major film studio wants to make an adaptation of your work. The film studio approaches you with the deal on a condition — that you would work with another well-known writer, to rewrite portions of the story, to adapt it for a film. You, after fair amount of discussion agree to their demand.
 
 You and other writer decide to store the draft on a server, where it can be accessed by both of you and you both made local copies of the draft for editing purpose. You both are of the opinion that the end fight scene would require a fair amount of work, so you both divide the work — you decide to work on the portion leading up to the end fight scene, while your peer decides to work on the end fight scene itself. You both definitely would not work in isolation — lot of communication during the rewriting process is expected. You both would want to review each other’s work. To share your changes with your peer, you would have upload it to the server.
