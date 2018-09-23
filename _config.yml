@@ -1,6 +1,6 @@
 # main text of home
 name: Anubhav Patel
-bio: In love with computers from birth
+bio: In Love With Computers From Birth
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: anubhavp28@gmail.com
 authors:
     anubhavp:
         name: Anubhav Patel
-        bio: In love with computers from birth
+        bio: In Love With Computers From Birth
         external-image: false
         picture: assets/images/anubhav.jpg
         twitter: anubhavp28
