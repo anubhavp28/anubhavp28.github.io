@@ -3,22 +3,20 @@ title: About
 layout: page
 ---
 <img style="text-align: center; border-radius: 100%; max-width: 180px;" src="{{ site.url }}/{{ site.picture }}">
-<h1>Anubhav Dinesh Patel</h1>
-<h5 align="center">Computer Geek | Full Stack Developer | Machine Learning Enthusiast</h5>
+<h1 style="margin-bottom: 3rem; color:#3498db">Anubhav Patel</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h4 align="center" style="opacity: 0.5; font-weight: normal; font-family: 'Consolas', Liberation Mono, Menlo, Courier, monospace; font-size: 1.5rem;">"Remember all things are possible for those who believe."<pre style="border: none;">Gail Devers</pre>
+</h4>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>I am an undergraduate at <a href="https://iiitkalyani.ac.in">Indian Institute of Information Technology Kalyani</a>, pursuing Bachelors in Computer Science and Engineering. My interest lies in code and languages that run behind the scenes powering web services and mobile apps, but I don’t mind implementing ML algorithms or creating client-side experiences (especially during Hackathons).</p>
+
+<p>I am always on the lookout for my next hackathon adventure.  I have participated in a number of national level hackathons including HACK-A-BIT, Smart India Hackathon, etc. My team ended up winning the 6th Prize at HACK-A-BIT  2018, where we created a news aggregator that utilised machine learning to mitigate effects of media bias.</p>
+
+<p>I regularly contribute to open source softwares. I have contributed to SciPy, FOSSASIA, OrigamiJS, Processing DE, etc. I am founder and manager of FOSS Club of IIIT Kalyani, under the banner of which I have organised several college level events. </p>
+
+<p>In the spare time, I like reading, listening to songs (especially to those by Ed Sheeran) on repeat, and watching my favourite show - Doctor Who, or my favourite youtube channel - Linus Tech Tips. 
+</p>
 
 <h2>Skills</h2>
 
