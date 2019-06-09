@@ -6,7 +6,6 @@ headerImage: false
 tag:
 - git
 - github
-star: true
 category: blog
 author: anubhavp
 description: Tutorial series on Git & Github
