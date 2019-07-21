@@ -1,7 +1,7 @@
 ---
 title: 'GSoC 2019 : Weekly Check-in #8'
 layout: post
-date: 2019-06-12 12:00
+date: 2019-07-12 12:00
 headerImage: false
 tag:
 - scrapy
