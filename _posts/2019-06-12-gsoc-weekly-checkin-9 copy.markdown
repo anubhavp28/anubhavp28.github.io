@@ -17,6 +17,7 @@ description: Weekly blogs for GSoC 2019
 Next we made each robots.txt parser - parse and answer query (we made parsers answer each query 5 times) in an order similar to how they would need to in a broad crawl. Here are the results :
 
     * Protego :
+  
       * 25th percentile : 0.002419 seconds
       * 50th percentile : 0.006798 seconds
       * 75th percentile : 0.014307 seconds
