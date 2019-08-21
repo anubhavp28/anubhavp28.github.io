@@ -31,7 +31,9 @@ The primary and stretch goal of my project was achieved. I implemented a interfa
 
 I also created a pure-Python fully specification compliant robots.txt parser, which I named [Protego](https://github.com/scrapy/protego). Protego supports modern robots.txt conventions like wildcards, length based rule ordering, request rate, etc. Protego is also compatible with the new robots.txt specification draft proposed by Google. Protego is now a part of Scrapy organisation on GitHub, and the latest version of Protego is on PyPI, hence it can be used by a simple ``pip install protego`` charm. The related pull request [Protego/#1](https://github.com/scrapy/protego/pull/1) was merged on 13 Aug 2019.
 
-## Related Pull Requests
+## Related Pull Requests and Commits
+
+For my project, I worked on these two repositories on GitHub - [Scrapy/Scrapy](https://github.com/scrapy/scrapy) and [Scrapy/Protego](https://github.com/scrapy/protego). Here are the pull requests authored by me -
 
   * [Scrapy/#3796](https://github.com/scrapy/scrapy/pull/3796) - Implementing a interface for robots.txt parsers in Scrapy.
   * [Protego/#1](https://github.com/scrapy/protego/pull/1) - Initial release of Protego.
